@@ -1,7 +1,6 @@
 <template>
   <div>
     Izgled za ishod 1 i 2 
-
   </div>
   <q-page class="flex flex-center">
     <img
